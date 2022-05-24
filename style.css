@@ -7,29 +7,24 @@ img {
     width: 155px;
     height: 155px;
     border-radius: 20px;
-}
-
-img:first-child{
     cursor: pointer;
 }
 
-img:first-child:hover{
+
+img:hover{
     box-shadow: 0 0 1em rgb(138, 137, 137);
 }
 
-body{
-    padding: 0 50px;
-}
 
 .main {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-top: 50px;
-    height: 500px;
+    margin: 20px;
+    height: 650px;
     background-color: rgb(236, 234, 234);
-    padding: 30px;
+    overflow: hidden;
     border-radius: 20px;
 }
 
@@ -38,4 +33,18 @@ body{
     justify-content: space-evenly;
     width: 100%;
     padding: 15px 0;
+}
+.sinopse{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.sinopse-texto{
+    width: 130px;
+    margin-left: 15px;
+
+}
+.sinopse-texto p{
+font-size: 15px;
 }
