@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    border: 0;
+}
+
+img {
+    width: 155px;
+    height: 155px;
+    border-radius: 20px;
+}
+
+img:first-child{
+    cursor: pointer;
+}
+
+img:first-child:hover{
+    box-shadow: 0 0 1em rgb(138, 137, 137);
+}
+
+body{
+    padding: 0 50px;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    height: 500px;
+    background-color: rgb(236, 234, 234);
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.linhas{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    padding: 15px 0;
+}
