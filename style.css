@@ -38,6 +38,7 @@ img:hover{
     display: flex;
     align-items: center;
     justify-content: space-evenly;
+    text-align: justify;    
 
 }
 .sinopse-texto{
