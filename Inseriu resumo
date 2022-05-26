@@ -1,1 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Book lovers</title>
+  </head>
+  <body>
+    <h1>Leia um livro e mude sua mente</h1>
+    <div class="main">
+      <div class="linhas">
+        <div class="sinopse">
+          <img src="Imagens/Colecionador.jpeg" alt="" />
+          <div class="sinopse-texto">
+            <p>
+              Um homem solitário que encontra o grande amor de sua vida. Leia mais.
+            </p>
+          </div>
+        </div>
+        <div class="sinopse">
+          <img src="Imagens/garota exemplar.jpeg" alt="" />
+          <div class="sinopse-texto">
+            <p>
+              As consequências psicológicas da deterioração de um relacionamento íntimo. Leia mais.
+            </p>
+          </div>
+        </div>
+        <div class="sinopse">
+          <img src="Imagens/Lista de convidados.jpeg" alt="" />
+          <div class="sinopse-texto">
+            <p>
+              Convidados se reúnem para celebrar uma união de dar inveja. Leia mais.
+            </p>
+          </div>
+        </div>
+        <div class="sinopse">
+          <img src="Imagens/paciente.jpeg" alt="" />
+          <div class="sinopse-texto">
+            <p>
+              As raízes do silêncio são muito mais profundas do que se pode imaginar. Leia mais.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="linhas">
+        <div class="sinopse">
+          <img src="Imagens/Crespúsculo.jpeg" alt="" />
+          <div class="sinopse-texto">
+            <p>
+              Elemento irresistível: o objeto da paixão da protagonista é um vampiro. Leia mais.
+            </p>
+          </div>
+        </div>
+        <div class="sinopse">
+          <img src="Imagens/Teto.jpeg" alt="" />
+          <div class="sinopse-texto">
+            <p>
+              Para se sentir em casa, às vezes é preciso jogar as regras pela janela. Leia mais.
+            </p>
+          </div>
+        </div>
+        <div class="sinopse">
+          <img src="Imagens/Os sete maridos de evelyn hugo.jpg" alt="" />
+          <div class="sinopse-texto">
+            <p>
+              Os sacrifícios que fazemos por amor, o perigo dos segredos e o preço da fama. Leia mais.
+            </p>
+          </div>
+        </div>
+        <div class="sinopse">
+          <img src="Imagens/O morro dos ventos uivantes.jpg" alt="" />
+          <div class="sinopse-texto">
+            <p>
+              Uma trágica de amor e obsessão. Leia mais.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="linhas">
+        <div class="sinopse">
+          <img src="Imagens/atencao.jpeg" alt="" />
+          <div class="sinopse-texto">
+            <p>
+              Aprenda a se tornar mais compassivo consigo mesmo. Leia mais.
+            </p>
+          </div>
+        </div>
+        <div class="sinopse">
+          <img src="Imagens/detento.jpeg" alt=""/>
+          <div class="sinopse-texto">
+            <p>
+              A obra revela a dureza do cárcere por alguém que vivenciou a experiência. Leia mais.
+            </p>
+          </div>
+        </div>
+        <div class="sinopse">
+          <img src="Imagens/inferno.jpeg" alt="" />
+          <div class="sinopse-texto">
+            <p>
+              Imagem de uma sociedade que se tornou humanamente inviável e mostra uma tentativa radical de sobreviver a ela. Leia mais.
+            </p>
+          </div>
+        </div>
+        <div class="sinopse">
+          <img src="Imagens/Poder do agora.jpeg" alt="" />
+          <div class="sinopse-texto">
+            <p>
+              Manual prático que nos ensina a tomar consciência dos pensamentos e emoções. Leia mais.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
 
